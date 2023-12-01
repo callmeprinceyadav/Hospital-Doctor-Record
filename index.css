@@ -75,6 +75,7 @@ table th {
 input[type="text"],input[type="Number"],select{
   height: auto;
   border-radius: 3px;
+  padding: 10px;
 }
 
 input[type="submit"] {
@@ -86,7 +87,7 @@ input[type="submit"] {
     cursor: pointer;
     width: 100%;
     font-size: 20px;
-    margin: 10px;
+    /* margin: 10px;   */
   }
 
   input[type="submit"]:hover {
